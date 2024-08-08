@@ -1,0 +1,268 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which of the following is a complete sentence?",
+      "options": [
+          "The dog",
+          "Ran in the park",
+          "The cat meowed loudly.",
+          "Chasing the squirrel"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Which of these is a fragment sentence?",
+      "options": [
+          "I love to read books.",
+          "Playing in the rain",
+          "She went to the store.",
+          "The boy caught the ball."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "\"The dog ran the cat meowed\" is a _____ sentence.",
+      "options": [
+          "Run-on",
+          "Complete",
+          "Fragment"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "_____ is a group of words that expresses a complete thought.",
+      "options": [
+          "Word",
+          "Sentence",
+          "Fragment"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "\"Playing in the park\" is a complete sentence.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "What do we call a sentence that joins two or more complete sentences without proper punctuation?",
+      "options": [
+          "Complete sentence",
+          "Fragment sentence",
+          "Run-on sentence",
+          "Compound sentence"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Which of these is a complete sentence?",
+      "options": [
+          "Went to the beach",
+          "The sun was shining brightly.",
+          "Playing in the sand",
+          "Beautiful day"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which of these is a run-on sentence?",
+      "options": [
+          "I like to play soccer. I also enjoy basketball.",
+          "I went to the park my friend was there.",
+          "My favourite colour is blue.",
+          "The dog barked at the cat."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "What do we call a sentence that is missing a subject or a predicate?",
+      "options": [
+          "Complete sentence",
+          "Run-on sentence",
+          "Fragment sentence",
+          "All of the above"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Which of these is a run-on sentence?",
+      "options": [
+          "I love to eat ice cream. It's my favourite dessert.",
+          "I went to the park I played on the swings.",
+          "The dog barked loudly.",
+          "My friend came over, and we played games."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "A complete sentence has a _____ and a _____.",
+      "options": [
+          "subject, predicate",
+          "predicate, verb",
+          "conjunction, subject"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "How can we fix a fragment sentence?",
+      "options": [
+          "Remove all punctuation",
+          "Add more words",
+          "Add a subject or a predicate",
+          "Make it shorter"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Which of these is a complete sentence?",
+      "options": [
+          "Rode my bike",
+          "The bird sang a beautiful song.",
+          "After the rain stopped",
+          "Jumping on the trampoline"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Identify the fragment:",
+      "options": [
+          "She likes to read books.",
+          "During the summer vacation.",
+          "The cat slept on the mat.",
+          "We went to the zoo."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Choose the run-on sentence:",
+      "options": [
+          "I like ice cream, and my brother likes cake.",
+          "The sun is shining the birds are singing.",
+          "She runs every morning.",
+          "They went to the park to play."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Fill in the blank to make a complete sentence: \"The baby ___.\"",
+      "options": [
+          "crying",
+          "is crying",
+          "in the crib",
+          "sleep"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "How do we fix a run-on sentence?",
+      "options": [
+          "Remove all punctuation",
+          "Add more words",
+          "Separate the sentences with a period or a conjunction",
+          "Make it shorter"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "\"Because it was raining.\" is a complete sentence.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Which of the following is a fragment?",
+      "options": [
+          "They went home.",
+          "Jumping over the fence.",
+          "We ate pizza for dinner.",
+          "The car is red."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Choose the complete sentence:",
+      "options": [
+          "After the movie ended.",
+          "The girl sings beautifully.",
+          "When the dog barks.",
+          "Running to the store."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q21.",
+      "question": "Identify the run-on sentence:",
+      "options": [
+          "He went to the store he bought some milk.",
+          "They are playing soccer.",
+          "I like apples.",
+          "She is reading a book."
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q22.",
+      "question": "Fill in the blank to complete the sentence: \"She ___ a new dress.\"",
+      "options": [
+          "buying",
+          "buys",
+          "in the store",
+          "with her mom"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q23.",
+      "question": "\"The kids are playing outside.\" is a complete sentence.",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q24.",
+      "question": "Which is a fragment?",
+      "options": [
+          "My dog is cute.",
+          "Under the bed.",
+          "They have a big house.",
+          "We are going to school."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q25.",
+      "question": "Identify the run-on sentence:",
+      "options": [
+          "I enjoy reading it is my favourite hobby.",
+          "She plays the piano.",
+          "He is a good student.",
+          "They live in a big house."
+      ],
+      "correct": 0
+  }
+]
